@@ -1,0 +1,29 @@
+{
+  "name": "projetoppim2",
+  "version": "1.0.0",
+  "description": "manipulação de parametros enviados por formulario html",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/evellynloriely/ProjetoPPIM2.git"
+  },
+  "keywords": [
+    "html",
+    "formulario",
+    "cadastro"
+  ],
+  "author": "Evellyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evellynloriely/ProjetoPPIM2/issues"
+  },
+  "homepage": "https://github.com/evellynloriely/ProjetoPPIM2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
